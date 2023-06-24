@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "10a",
+    "Students": [
+      {
+        "Name": "янко кура",
+        "Class": "10a",
+        "Number": 5,
+        "AverageGrade": 3.5
+      },
+      {
+        "Name": "цанко чепа",
+        "Class": "10a",
+        "Number": 4,
+        "AverageGrade": 6.0
+      },
+      {
+        "Name": "васко наргилето",
+        "Class": "10a",
+        "Number": 2,
+        "AverageGrade": 0.0
+      },
+      {
+        "Name": "сдфгх",
+        "Class": "10a",
+        "Number": 3,
+        "AverageGrade": 3.0
+      },
+      {
+        "Name": "dfghj",
+        "Class": "10a",
+        "Number": 1,
+        "AverageGrade": 4.4
+      }
+    ]
+  }
+]
